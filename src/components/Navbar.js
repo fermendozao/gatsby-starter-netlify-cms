@@ -23,6 +23,9 @@ const Navbar = () => (
         <Link className="navbar-item" to="/contact">
           Contact
         </Link>
+        <Link className="navbar-item" to="/courses">
+          Courses
+        </Link>
         <Link className="navbar-item" to="/contact/examples">
           Form Examples
         </Link>
